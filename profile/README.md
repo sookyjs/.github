@@ -18,3 +18,6 @@
 
 ## Donations
 [Patreon](https://www.patreon.com/c/kawaandchai)
+
+## Quickstart
+[Demo Sooky API with socail share link tool/microservice](https://youtu.be/nnkLXKUtUZk)
