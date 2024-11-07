@@ -16,8 +16,12 @@
   </a>
 </p>
 
-## Donations
-[Patreon](https://www.patreon.com/c/kawaandchai)
-
 ## Quickstart
 [Demo Sooky API with social share link tool/microservice](https://youtu.be/nnkLXKUtUZk)
+
+## Donations to the contributors
+
+[Nazim Boudeffa](https://fr.tipeee.com/nazimboudeffa)
+[Salim Benfarhatte](#)
+
+If you want to contribute please add your donation link
