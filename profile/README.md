@@ -5,7 +5,7 @@
   Sooky provides modularized online business logic and tools to orchestrate them into powerful SaaS.
 </p>
 <p align="center">
-  <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
+  <a href="#">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Sooky is released under the MIT license." />
   </a>
   <a href="#">
