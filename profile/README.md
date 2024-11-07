@@ -25,4 +25,4 @@
 
 [Salim Benfarhat](https://salim.link/paypal)
 
-If you want to contribute please add your donation link
+If you want to contribute you can add your donation link
