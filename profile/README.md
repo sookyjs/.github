@@ -23,6 +23,6 @@
 
 [Nazim Boudeffa](https://fr.tipeee.com/nazimboudeffa)
 
-[Salim Benfarhatte](#)
+[Salim Benfarhat](#)
 
 If you want to contribute please add your donation link
