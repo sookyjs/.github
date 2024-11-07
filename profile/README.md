@@ -21,7 +21,7 @@
 
 ## Donations to the contributors
 
-[Nazim Boudeffa](https://fr.tipeee.com/nazimboudeffa)
+[Nazim Boudeffa'TIPEEE](https://fr.tipeee.com/nazimboudeffa)
 
 [Salim Benfarhat](#)
 
