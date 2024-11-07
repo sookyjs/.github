@@ -17,4 +17,4 @@
 </p>
 
 ## Donations
-[Patreon]([https://linkedin.com](https://www.patreon.com/c/kawaandchai)
+[Patreon](https://www.patreon.com/c/kawaandchai)
