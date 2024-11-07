@@ -16,5 +16,5 @@
   </a>
 </p>
 
-## Useful links
-[LinkedIn](https://linkedin.com)
+## Donations
+[Patreon]([https://linkedin.com](https://www.patreon.com/c/kawaandchai)
