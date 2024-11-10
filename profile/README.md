@@ -21,8 +21,8 @@
 
 ## Donations to the contributors
 
-[Nazim Boudeffa's TIPEEE](https://fr.tipeee.com/nazimboudeffa)
+[![](https://img.shields.io/badge/Nazim%20%20Boudeffa's%20%20-TIPEEE-pink)](https://fr.tipeee.com/nazimboudeffa)  
 
-[Salim Benfarhat's PAYPAL](https://salim.link/paypal)
+[![](https://img.shields.io/badge/Salim%20%20Benfarhat's%20%20-PAYPAL-blue)](https://salim.link/paypal)  
 
 If you want to contribute you can add your donation link
